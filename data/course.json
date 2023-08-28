@@ -33,6 +33,7 @@
     "website": "703x-genetics"
   },
   "course_title": "7.03x Genetics",
+  "hide_download": true,
   "course_description": "In this course, you will learn the principles of genetics with application to the study of biological function at the level of molecules, cells, and multicellular organisms, including humans. We will cover structure and function of genes, chromosomes, and genomes; biological variation resulting from recombination, mutation, and selection; population genetics; and the use of genetic methods to modify genes and genomes and analyze protein function, gene regulation, and inherited disease.\n\nThis course, based on the MIT course *7.03 Genetics* taken by enrolled MIT students, was organized as a three-part series on [edX](https://www.edx.org/school/mitx) by [MIT\u2019s Department of Biology](https://biology.mit.edu/) (Note: The third part of the course is not available yet). It is [self-paced and free](https://web.mit.edu/mitxbio/courses.html) as long as you enroll in the Audit Track option, which you can select after creating a free account on edX.",
   "department_numbers": [
     "RES",
