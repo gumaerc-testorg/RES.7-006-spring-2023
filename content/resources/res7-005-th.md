@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-7-006-7-03x-genetics/res7-005-th.jpg
+file_size: 23390
 file_type: image/jpeg
 image_metadata:
   caption: This course will explore the foundations of the field of genetics and how
