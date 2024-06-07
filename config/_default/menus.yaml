@@ -1,9 +1,9 @@
 leftnav:
-- identifier: external--993898756-1680897933080
+- identifier: 8834e852-de1c-40d9-8449-38c96c780c01
   name: The Fundamentals
-  url: https://www.edx.org/course/genetics-part-1
+  pageRef: /external-resources/the-fundamentals_8834e852-de1c-40d9-8449-38c96c780c01
   weight: 10
-- identifier: external-769774053-1680897964085
+- identifier: 5a8b1824-a77b-4c77-b1de-3b80b12e8cb1
   name: Analysis and Application
-  url: https://www.edx.org/course/genetics-analysis-and-applications
+  pageRef: /external-resources/analysis-and-application_5a8b1824-a77b-4c77-b1de-3b80b12e8cb1
   weight: 20
