@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/703x-genetics/res7-005-th.jpg
+file: /ol-ocw-studio-app/courses/res-7-006-7-03x-genetics/res7-005-th.jpg
 file_size: 23390
 file_type: image/jpeg
 image_metadata:
