@@ -7,3 +7,7 @@ leftnav:
   name: Analysis and Application
   pageRef: /external-resources/analysis-and-application_5a8b1824-a77b-4c77-b1de-3b80b12e8cb1
   weight: 20
+- identifier: eeedc673-47ac-4cef-a3fb-e1e2b25d70f9
+  name: Population Genetics and Human Traits
+  pageRef: /external-resources/population-genetics-and-human-traits
+  weight: 30
